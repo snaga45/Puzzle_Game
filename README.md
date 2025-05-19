@@ -25,4 +25,5 @@ A chess puzzle game implemented in C# for EKKE university assignment.
 
 ---
 *Submitted for Professor Ede's class review*
+
 *EKKE University Project - 2025*
