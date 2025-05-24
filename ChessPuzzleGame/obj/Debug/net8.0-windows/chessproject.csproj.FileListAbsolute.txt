@@ -1,0 +1,16 @@
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\obj\Debug\net8.0-windows\ChessPuzzleGame.Form1.resources
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\obj\Debug\net8.0-windows\chessproject.csproj.GenerateResource.cache
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\obj\Debug\net8.0-windows\chessproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\obj\Debug\net8.0-windows\chessproject.AssemblyInfoInputs.cache
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\obj\Debug\net8.0-windows\chessproject.AssemblyInfo.cs
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\obj\Debug\net8.0-windows\chessproject.csproj.CoreCompileInputs.cache
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\bin\Debug\net8.0-windows\chessproject.exe
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\bin\Debug\net8.0-windows\chessproject.deps.json
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\bin\Debug\net8.0-windows\chessproject.runtimeconfig.json
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\bin\Debug\net8.0-windows\chessproject.dll
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\bin\Debug\net8.0-windows\chessproject.pdb
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\obj\Debug\net8.0-windows\chessproject.dll
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\obj\Debug\net8.0-windows\refint\chessproject.dll
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\obj\Debug\net8.0-windows\chessproject.pdb
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\obj\Debug\net8.0-windows\chessproject.genruntimeconfig.cache
+C:\Users\yahya\source\repos\chessproject\ChessPuzzleGame\obj\Debug\net8.0-windows\ref\chessproject.dll
